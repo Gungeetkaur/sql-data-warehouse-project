@@ -1,0 +1,8 @@
+# Importing raw data tables directly from the Bronze layer.
+# These tables represent unprocessed, original data ingested from source systems (e.g., ERP, CRM).
+# Note: No transformations or cleansing applied at this stage – this is the first stage of the data pipeline.
+
+  # TODO: Add validation checks or apply a cleansing layer before moving to silver/gold
+# This will help maintain data quality in downstream reporting
+
+    
